@@ -8,11 +8,14 @@ Proyecto en HTML para practicar Git y GitHub.
 - [Mejoras implementadas](#mejoras-implementadas)
 
 ## Descripción
-...
+Breve ejercicio para comprender el trabajo con repositorios en un equipo. En este caso en un ámbito reducido y controlado para conocer los procesos básicos.
 
 ## Estructura
-...
+Mi-Proyecto-Web consta de:
+- 'index.html'
+- 'README.md'
+- '.gitignore'
 
 ## Mejoras implementadas
 - Menú de navegación (`feature/menu`)
-- Footer con redes sociales (`feature/footer`)
+- Implementación de redes sociales (`feature/footer`)
